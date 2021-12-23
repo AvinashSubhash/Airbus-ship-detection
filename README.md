@@ -6,7 +6,7 @@ Submit a report with the proposal for your term project. The report should conta
 
 1. Scope & task
 
-2. Data flow diagram – high level
+2. Data flow diagram â€“ high level
 
 3. Features to be used
 
@@ -34,11 +34,7 @@ Hu Moments [3] - Used to characterize the shape of the ships in an image.
 
 Algorithms for prediction:
 
-Deep learning model: CNN / Transfer Learning - U-Net [4], Mask R-CNN [5]
-
-Tentative Plan & Expected Outcome:
-
-Stage I (Manually classifying dataset) would be done within the next 1 week. Stage II and Stage III (Feature enhancement and preparing data to feed into model) would be finished by following week. The Next stage of designing the model layer would be finalized by 3rd week of October and the final prediction model would be ready by last week of October.
+Deep learning model: CNN 
 
 The final prepared would able to successfully predict the ships in the given aerial images of sea routes with decent accuracy.
 
